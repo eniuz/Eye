@@ -23,6 +23,7 @@ Code style
 - insert :: to separate title of an event and description
 
 Inspiration
-- meet.js
+- meet.js meeting
+- trackjs.com
 - getsentry
 - keen.io 
