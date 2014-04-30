@@ -1,7 +1,7 @@
-backend-reporting
+Eye
 =================
 
-simple but cool solution for reporting frontend errors.
+simple but cool solution for reporting frontend errors, blink blink.
 
 Prerequisites
 
