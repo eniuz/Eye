@@ -20,7 +20,8 @@ The idea
 
 Code style
 - I don't care how you code, it should integrate seamlessly
-- insert :: to separate title of an event and description
+- insert :: to separate the title of an event and description. console.log("CustomersAction :: user entered this weird screen");
+- the only dependency is a firebase client
 
 Inspiration
 - meet.js meeting
