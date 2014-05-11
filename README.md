@@ -28,3 +28,8 @@ Inspiration
 - trackjs.com
 - getsentry
 - keen.io 
+
+Todo
+- client app in Angular
+- quota exceeded err
+- support apps that use localStotage, dont be greedy
